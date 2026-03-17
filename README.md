@@ -49,12 +49,13 @@
 
 ###  Featured Projects
 
-| Project | Description | Tech Stack | 🔗 Links |
+| Project | Description | Tech Stack |  Links   |
 |---------|-------------|------------|----------|
 | **Monsters Incoming** | A fully shipped 2D Tower Defense game featuring state machines, custom AI logic, and Google Play integration. | C#, Unity | [Google Play](#) / [Repo](#) |
-| **Kwik Shadez** | E-Commerce platform featuring custom pricing logic, Stripe/PayPal integrations, and backend automation. | WordPress, PHP, n8n | [Live Site](#) |
-| **Equivision Marketplace** | Designed and developed an online auction & listing platform tailored for a local NZ client. | Wix Studio, JS, Velo API | [Live Site](#) |
-| **Del Tutto** | Architected and developed a fully responsive corporate site translating business logic into a modern UI. | Webflow, Figma | [Live Site](#) |
+| **Kwik Shadez** | E-Commerce platform featuring custom pricing logic, Stripe/PayPal integrations, and backend automation. | WordPress, PHP, n8n | [[Live Site](https://kwikshadez.com/)](#) |
+| **Del Tutto** | Architected and developed a fully responsive corporate site translating business logic into a modern UI. | Webflow, Figma | [[Live Site](https://del-tutto.webflow.io/)](#) |
+| **EFD** | Executed complex content and feature migration for a client website, ensuring seamless functionality and a pixel-perfect UI transition. | Webflow, Figma | [[Live Site](https://efd-website.webflow.io/)](#) |
+| **Equivision Marketplace** | Designed and developed an online auction & listing platform tailored for a local NZ client. | Wix Studio, JS, Velo API | [[Live Site](https://www.equivision.co.nz/)](#) |
 | **SnapCraft** | UWP desktop application leveraging Stable Diffusion for optimized, AI-driven image generation. | C#, UWP, AI | [Repo](#) |
 
 *(Note: Some repositories are private due to client confidentiality. Code snippets can be discussed upon request.)*
