@@ -51,7 +51,7 @@
 
 | Project | Description | Tech Stack |  Links   |
 |---------|-------------|------------|----------|
-| **Monsters Incoming** | A fully shipped 2D Tower Defense game featuring state machines, custom AI logic, and Google Play integration. | C#, Unity | [Google Play](#) / [[Repo](https://github.com/Ron1006/Monsters-Incoming)](#) |
+| **Monsters Incoming** | A fully shipped 2D Tower Defense game featuring state machines, custom AI logic, and Google Play integration. | C#, Unity | [[Google Play](https://play.google.com/store/apps/details?id=com.RonLiu.MonstersIncoming)](#) / [[Repo](https://github.com/Ron1006/Monsters-Incoming)](#) |
 | **Kwik Shadez** | E-Commerce platform featuring custom pricing logic, Stripe/PayPal integrations, and backend automation. | WordPress, PHP, n8n | [[Live Site](https://kwikshadez.com/)](#) / [[Repo](https://github.com/Ron1006/Kwik-shadez)](#) |
 | **Del Tutto** | Architected and developed a fully responsive corporate site translating business logic into a modern UI. | Webflow, Figma | [[Live Site](https://del-tutto.webflow.io/)](#) |
 | **EFD** | Executed complex content and feature migration for a client website, ensuring seamless functionality and a pixel-perfect UI transition. | Webflow, Figma | [[Live Site](https://efd-website.webflow.io/)](#) |
